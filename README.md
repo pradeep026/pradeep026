@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeep026
-- 👀 I’m interested in Javascript, React and React Native, Serverless / AWS Lambda...
+- 👀 I’m interested in Javascript, Typescript, React and React Native, Serverless / AWS Lambda...
 - 🌱 I’m currently learning Serverless / AWS Lambda 
 
 <!---
